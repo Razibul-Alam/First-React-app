@@ -11,3 +11,27 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.card{
+  
+  background-color: thistle;
+  width: 400px;
+  margin: auto;
+  text-align: center;
+}
+.cardtitle{
+  background-color: purple;
+  padding: 10px 10px;
+}
+.carddecs{
+  background-color: black;
+  color: white;
+}
+.cardfooter{
+  background-color: black;
+  color: white;
+}
+
+.heading{
+  text-align: center;
+  color: aqua;
+}
